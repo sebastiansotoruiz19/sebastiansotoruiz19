@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**sebastiansotoruiz19/sebastiansotoruiz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sebastian Soto Ruiz, a bilingual Technical Support
+Operations and Business Intelligence professional based
+in Costa Rica.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 6+ years of professional experience across technology
+  and customer operations.
+- Experience in enterprise technical support, operational
+  leadership and process improvement.
+- Passionate about data-driven decision-making, automation
+  and continuous improvement.
+- Building practical solutions through my Portfolio Lab.
+
+## Technical Skills
+
+| Area | Technologies |
+|---|---|
+| Data & Analytics | Excel, SQL, Power BI, DAX, Power Query |
+| Enterprise Support | Salesforce, ServiceNow, Active Directory, VMware, Citrix |
+| Operations | KPI Reporting, Workforce Planning, Quality Assurance |
+| Methodologies | Kaizen, Root Cause Analysis, Process Improvement |
+
+## Portfolio Lab
+
+| ID | Project | Technology | Status |
+|---|---|---|---|
+| PL-001 | Personal Finance OS | Excel | Completed |
+| PL-002 | Job Search Intelligence OS | Excel | Completed |
+| PL-003 | Customer Support Quality Analyzer | TBD | Planned |
+| PL-004 | Operations KPI Control Center | TBD | Planned |
+
+## Currently Exploring
+
+- Business Intelligence
+- Python
+- AI Automation & Agents
+
+## Languages
+
+- Spanish — Native
+- English — C1
+- Portuguese — A2
+- Italian — A2
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/sebastiansotoruiz)
+
+---
+
+*Continuous improvement. Practical solutions. Measurable impact.*
